@@ -1,0 +1,11 @@
+﻿  ModulePhysics.cpp
+c:\users\user\desktop\real pin ball\modulephysics.cpp(44): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\user\desktop\real pin ball\modulephysics.cpp(709): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\user\desktop\real pin ball\modulephysics.cpp(710): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\user\desktop\real pin ball\modulephysics.cpp(756): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\desktop\real pin ball\modulephysics.cpp(937): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\user\desktop\real pin ball\modulephysics.cpp(938): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\user\desktop\real pin ball\modulephysics.cpp(944): warning C4244: 'return': conversión de 'float32' a 'int'; posible pérdida de datos
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(131): warning C4577: si se usa 'noexcept' sin ningún modo de control de excepciones especificado, la finalización de la excepción no está garantizada. Especifique /EHsc
+  SDL Game.vcxproj -> C:\Users\User\Desktop\REAL PIN BALL\Debug\2D Physics - class 4.exe
+  SDL Game.vcxproj -> C:\Users\User\Desktop\REAL PIN BALL\Debug\2D Physics - class 4.pdb (Full PDB)
